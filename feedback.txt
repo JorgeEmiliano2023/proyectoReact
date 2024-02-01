@@ -1,0 +1,12 @@
+1. Instalamos create-react-app de forma global
+    npm install -g create-react-app
+
+2. Ejecutamos la libreria asignando el nombre del proyecto 
+    create-react-app react01 
+
+3. Eliminamos archivos innecesarios 
+
+4. Creamos un folder CSS y sumamos los archivos de .css 
+
+5. Run de la aplicacion: 
+    npm start
